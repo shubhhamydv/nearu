@@ -956,10 +956,10 @@
   resolved "https://registry.yarnpkg.com/@mantine/charts/-/charts-9.7.3.tgz#0d39e56d8e9b140be19c2d779ed811521be407ec"
   integrity sha512-p8SMOVEmQATcHIszSYdKdU6MBq8Ozdm+QJeFz+Zrtpquv0+ZVHIb262emZV544a7UmwOGdMN5DxmhQ8lewrbvg==
 
-"@mantine/colors-generator@^9.7.2":
-  version "9.7.3"
-  resolved "https://registry.yarnpkg.com/@mantine/colors-generator/-/colors-generator-9.7.3.tgz#bb3e25c4456a678e308d337bf08373328b1a416e"
-  integrity sha512-b8eJLbxb3C1gYpJybuivsbUF6HXG98VcAd94NZ4xlaiQAk/2UWPFX1KdEKtERZ8nfKrtjqQYJsYDTAqCpL4SfA==
+"@mantine/colors-generator@^9.7.4":
+  version "9.7.4"
+  resolved "https://registry.yarnpkg.com/@mantine/colors-generator/-/colors-generator-9.7.4.tgz#ff316eee81b8bee54dea5594000e033b4645b98d"
+  integrity sha512-y8RS1fdXs8Pdb+EsEi78gn3EkdEKYwQiK1Fdxyiy7n+032p3hrNjVCqfD9qTuVKSDM1yXhtMBWxYqAsl/yBAfQ==
 
 "@mantine/core@^9.7.2":
   version "9.7.3"

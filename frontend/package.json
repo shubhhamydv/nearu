@@ -27,7 +27,7 @@
     "@lingui/react": "^4.7.0",
     "@mantine/carousel": "^9.7.2",
     "@mantine/charts": "^9.7.2",
-    "@mantine/colors-generator": "^9.7.2",
+    "@mantine/colors-generator": "^9.7.4",
     "@mantine/core": "^9.7.2",
     "@mantine/dates": "^9.7.2",
     "@mantine/dropzone": "^9.7.2",
