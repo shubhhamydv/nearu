@@ -986,10 +986,10 @@
   dependencies:
     react-dropzone "20.1.2"
 
-"@mantine/form@^9.7.2":
-  version "9.7.3"
-  resolved "https://registry.yarnpkg.com/@mantine/form/-/form-9.7.3.tgz#c2bdeef4f6dac206cfc4b0adec7559662756fbc1"
-  integrity sha512-Y5FrEi3Tsh6kwZLEQV86MUs0HgrSIaoXPzwcRjsjRXdz067eeI55JVuPaXezTfHi00arTqIjgJbhBIJRHl4V+w==
+"@mantine/form@^9.7.4":
+  version "9.7.4"
+  resolved "https://registry.yarnpkg.com/@mantine/form/-/form-9.7.4.tgz#3774aa3c94ed8715bdde94ad8e15b84dbd9d411b"
+  integrity sha512-p8cImC+VgKKKRc6HJGlFtGAKNbKyHtKyDIgNJeoqUBQ1beUfQlEh0I6lmTmWCzGlijVUE+GdNJWveNr0PQKRIw==
   dependencies:
     "@standard-schema/spec" "^1.1.0"
     fast-deep-equal "^3.1.3"
