@@ -75,7 +75,7 @@
     "react-fast-compare": "3.2.2",
     "react-helmet-async": "^2.0.4",
     "react-qr-code": "^2.0.12",
-    "react-router": "^8.5.0",
+    "react-router": "^8.5.1",
     "recharts": "^3",
     "shallowequal": "1.1.0",
     "sirv": "^3.0.2"
